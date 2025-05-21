@@ -1,1 +1,3 @@
-# TP-compuApli
+- Nicolas Milman
+- Valentín Fortunato
+- Bruno Drovandi 
