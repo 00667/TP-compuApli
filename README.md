@@ -1,3 +1,2 @@
 - Nicolas Milman
-- Valentín Fortunato
 - Bruno Drovandi 
